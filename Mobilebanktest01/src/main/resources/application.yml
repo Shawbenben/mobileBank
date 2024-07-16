@@ -1,0 +1,17 @@
+spring:
+  application:
+    name:Mobilebank
+  datasource:
+    url: jdbc:mysql://localhost:3306/mobilebank?characterEncoding=utf-8&serverTimezone=Asia/Shanghai
+    username: root
+    password: 1234
+    driver-class-name: com.mysql.cj.jdbc.Driver
+
+mybatis-plus:
+  type-aliases-package: ccnu.intern.mobilebanktest01.pojo
+  mapper-locations: ccnu/intern/mobilebanktest01/mapper/*Mapper.xml
+  configuration:
+    map-underscore-to-camel-case: false
+
+
+
