@@ -1,0 +1,7 @@
+2024-02-27 21:18:13.453 [main] INFO  com.mb.weblog.web.WeblogWebApplicationTests - Starting WeblogWebApplicationTests using Java 1.8.0_261 on DESKTOP-FQEU5PM with PID 10400 (started by jingcheng in D:\develp\JavaProject\weblog-springboot\weblog-web)
+2024-02-27 21:18:13.453 [main] INFO  com.mb.weblog.web.WeblogWebApplicationTests - The following profiles are active: prod
+2024-02-27 21:18:14.544 [main] INFO  com.mb.weblog.web.WeblogWebApplicationTests - Started WeblogWebApplicationTests in 1.441 seconds (JVM running for 2.228)
+2024-02-27 21:18:14.729 [main] INFO  com.mb.weblog.web.WeblogWebApplicationTests - this is an Info level log
+2024-02-27 21:18:14.729 [main] WARN  com.mb.weblog.web.WeblogWebApplicationTests - this is a Warm level log
+2024-02-27 21:18:14.733 [main] ERROR com.mb.weblog.web.WeblogWebApplicationTests - this is a Error level log
+2024-02-27 21:18:14.733 [main] INFO  com.mb.weblog.web.WeblogWebApplicationTests - this is a line with palceholder log, written by magic ben 

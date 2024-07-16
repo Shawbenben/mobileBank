@@ -1,0 +1,52 @@
+[TraceId: ] 2024-02-28 15:00:40.552 [main] INFO  com.mb.weblog.web.WeblogWebApplicationTests - Starting WeblogWebApplicationTests using Java 1.8.0_261 on DESKTOP-FQEU5PM with PID 10304 (started by jingcheng in D:\develp\JavaProject\weblog-springboot\weblog-web)
+[TraceId: ] 2024-02-28 15:00:40.553 [main] INFO  com.mb.weblog.web.WeblogWebApplicationTests - The following profiles are active: prod
+[TraceId: ] 2024-02-28 15:00:42.557 [main] INFO  com.mb.weblog.web.WeblogWebApplicationTests - Started WeblogWebApplicationTests in 2.631 seconds (JVM running for 3.93)
+[TraceId: ] 2024-02-28 15:00:42.911 [main] INFO  com.mb.weblog.web.WeblogWebApplicationTests - this is an Info level log
+[TraceId: ] 2024-02-28 15:00:42.911 [main] WARN  com.mb.weblog.web.WeblogWebApplicationTests - this is a Warm level log
+[TraceId: ] 2024-02-28 15:00:42.911 [main] ERROR com.mb.weblog.web.WeblogWebApplicationTests - this is a Error level log
+[TraceId: ] 2024-02-28 15:00:42.911 [main] INFO  com.mb.weblog.web.WeblogWebApplicationTests - this is a line with palceholder log, written by magic ben 
+[TraceId: ] 2024-02-28 15:03:25.584 [main] INFO  com.mb.weblog.web.WeblogWebApplicationTests - Starting WeblogWebApplicationTests using Java 1.8.0_261 on DESKTOP-FQEU5PM with PID 9796 (started by jingcheng in D:\develp\JavaProject\weblog-springboot\weblog-web)
+[TraceId: ] 2024-02-28 15:03:25.585 [main] INFO  com.mb.weblog.web.WeblogWebApplicationTests - The following profiles are active: prod
+[TraceId: ] 2024-02-28 15:03:27.611 [main] INFO  com.mb.weblog.web.WeblogWebApplicationTests - Started WeblogWebApplicationTests in 2.632 seconds (JVM running for 3.869)
+[TraceId: ] 2024-02-28 15:05:51.488 [main] INFO  com.mb.weblog.web.WeblogWebApplication - Starting WeblogWebApplication using Java 1.8.0_261 on DESKTOP-FQEU5PM with PID 10032 (D:\develp\JavaProject\weblog-springboot\weblog-web\target\classes started by jingcheng in D:\develp\JavaProject\weblog-springboot)
+[TraceId: ] 2024-02-28 15:05:51.491 [main] INFO  com.mb.weblog.web.WeblogWebApplication - The following profiles are active: prod
+[TraceId: ] 2024-02-28 15:05:52.299 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+[TraceId: ] 2024-02-28 15:05:52.308 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+[TraceId: ] 2024-02-28 15:05:52.308 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.56]
+[TraceId: ] 2024-02-28 15:05:52.408 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+[TraceId: ] 2024-02-28 15:05:52.408 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 883 ms
+[TraceId: ] 2024-02-28 15:05:52.733 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+[TraceId: ] 2024-02-28 15:05:52.740 [main] INFO  com.mb.weblog.web.WeblogWebApplication - Started WeblogWebApplication in 1.694 seconds (JVM running for 2.282)
+[TraceId: ] 2024-02-28 15:06:12.158 [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[TraceId: ] 2024-02-28 15:06:12.158 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+[TraceId: ] 2024-02-28 15:06:12.159 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+[TraceId: ] 2024-02-28 15:28:34.505 [main] INFO  com.mb.weblog.web.WeblogWebApplication - Starting WeblogWebApplication using Java 1.8.0_261 on DESKTOP-FQEU5PM with PID 12872 (D:\develp\JavaProject\weblog-springboot\weblog-web\target\classes started by jingcheng in D:\develp\JavaProject\weblog-springboot)
+[TraceId: ] 2024-02-28 15:28:34.508 [main] INFO  com.mb.weblog.web.WeblogWebApplication - The following profiles are active: prod
+[TraceId: ] 2024-02-28 15:28:35.374 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+[TraceId: ] 2024-02-28 15:28:35.383 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+[TraceId: ] 2024-02-28 15:28:35.383 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.56]
+[TraceId: ] 2024-02-28 15:28:35.450 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+[TraceId: ] 2024-02-28 15:28:35.450 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 908 ms
+[TraceId: ] 2024-02-28 15:28:35.802 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+[TraceId: ] 2024-02-28 15:28:35.809 [main] INFO  com.mb.weblog.web.WeblogWebApplication - Started WeblogWebApplication in 1.717 seconds (JVM running for 2.274)
+[TraceId: ] 2024-02-28 17:05:51.383 [main] INFO  com.mb.weblog.web.WeblogWebApplication - Starting WeblogWebApplication using Java 1.8.0_261 on DESKTOP-FQEU5PM with PID 13256 (D:\develp\JavaProject\weblog-springboot\weblog-web\target\classes started by jingcheng in D:\develp\JavaProject\weblog-springboot)
+[TraceId: ] 2024-02-28 17:05:51.386 [main] INFO  com.mb.weblog.web.WeblogWebApplication - The following profiles are active: prod
+[TraceId: ] 2024-02-28 17:05:52.126 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+[TraceId: ] 2024-02-28 17:05:52.133 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+[TraceId: ] 2024-02-28 17:05:52.133 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.56]
+[TraceId: ] 2024-02-28 17:05:52.192 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+[TraceId: ] 2024-02-28 17:05:52.192 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 777 ms
+[TraceId: ] 2024-02-28 17:05:52.518 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+[TraceId: ] 2024-02-28 17:05:52.524 [main] INFO  com.mb.weblog.web.WeblogWebApplication - Started WeblogWebApplication in 1.547 seconds (JVM running for 2.114)
+[TraceId: ] 2024-02-28 17:06:04.958 [main] INFO  com.mb.weblog.web.WeblogWebApplication - Starting WeblogWebApplication using Java 1.8.0_261 on DESKTOP-FQEU5PM with PID 18252 (D:\develp\JavaProject\weblog-springboot\weblog-web\target\classes started by jingcheng in D:\develp\JavaProject\weblog-springboot)
+[TraceId: ] 2024-02-28 17:06:04.960 [main] INFO  com.mb.weblog.web.WeblogWebApplication - The following profiles are active: prod
+[TraceId: ] 2024-02-28 17:06:05.624 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+[TraceId: ] 2024-02-28 17:06:05.630 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+[TraceId: ] 2024-02-28 17:06:05.630 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.56]
+[TraceId: ] 2024-02-28 17:06:05.683 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+[TraceId: ] 2024-02-28 17:06:05.683 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 698 ms
+[TraceId: ] 2024-02-28 17:06:05.965 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+[TraceId: ] 2024-02-28 17:06:05.971 [main] INFO  com.mb.weblog.web.WeblogWebApplication - Started WeblogWebApplication in 1.359 seconds (JVM running for 1.867)
+[TraceId: ] 2024-02-28 17:10:39.648 [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[TraceId: ] 2024-02-28 17:10:39.649 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+[TraceId: ] 2024-02-28 17:10:39.649 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 0 ms
